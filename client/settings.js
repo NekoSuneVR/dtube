@@ -4,7 +4,7 @@ Meteor.settings.public = {
     "dfees": 1000,
     "loadLimit": 50,
     "displayNodes": [
-      // "https://snap1.d.tube",
+      "https://ipfs.alloyxuast.co.uk",
       "https://video.oneloveipfs.com",
       "https://ipfs.io",
       "https://ipfs.infura.io",
@@ -21,6 +21,8 @@ Meteor.settings.public = {
       "https://api.avalonblocks.com",
       "https://dtube.fso.ovh",
       "https://dtube.tekraze.com",
+      "https://dtube.alloyxuast.co.uk",
+      "https://dtube.nekosunevr.co.uk",
       "http://localhost:3001",
     ],
     "HiveAPINodes": [
@@ -34,7 +36,8 @@ Meteor.settings.public = {
       "https://rpc.ausbit.dev",
       "https://hive-api.arcange.eu",
       "https://hive.roelandp.nl",
-      "https://api.hive.blue"
+      "https://api.hive.blue",
+      "https://hive-api.dlux.io"
     ],
     "BlurtAPINodes": [
       "https://rpc.blurt.world",
@@ -46,7 +49,6 @@ Meteor.settings.public = {
     "snapMaxFileSizeKB": 2048,
     "upldr": ["1.btfsu","2.btfsu","3.btfsu","4.btfsu"],
     "thirdPartyUploadEndpoints": [
-      "uploader.oneloveipfs.com"
     ],
     "localhost": false
   },
