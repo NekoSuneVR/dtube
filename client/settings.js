@@ -22,6 +22,8 @@ Meteor.settings.public = {
       "https://dtube.fso.ovh",
       "https://dtube.tekraze.com",
       "https://s1dtube.nekosunevr.co.uk",
+      "https://s2dtube.nekosunevr.co.uk",
+      "https://s3dtube.nekosunevr.co.uk",
       "http://localhost:3001",
     ],
     "HiveAPINodes": [
